@@ -1,6 +1,9 @@
-# semanaomnistack11
 
-![Alt ou título da imagem](https://github.com/danielcs7/semanaomnistack11/blob/master/img/logo.png)
+
+![Alt ou título da imagem](https://github.com/danielcs7/semanaomnistack11/blob/master/img/logo.svg)
+
+
+# semanaomnistack11
 
 #reactjs #reactnative nodejs
 
