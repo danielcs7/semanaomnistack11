@@ -5,20 +5,30 @@
 
 
 # semanaomnistack11
-
-#reactjs #reactnative nodejs
+---
+- #reactjs 
+- #reactnative 
+- #nodejs
 
 # Metodos HTTP
-
+---
 GET:    buscar uma informacao do back-end; </p>
 POST:   criar uma informacao no back-end; </p>
 DELETE: deletar uma informacao no back-end; </p>
 PUT:    alterar uma informacao no back-end; </p>
 
------------------------------------------
 
-# Iniciando Projeto BackEnd NodeJS
+# Sobre
+---
+A aplicação desenvolvida tem o objetivo de ajudar ONGs que podem cadastrar novos casos no site, deste modo as pessoas podem contribuir com o valor de cada caso através do aplicativo.
 
+# Instalação
+---
+Backend - Frontend - Mobile
+Digite: npm install dentro da pasta backend, frontend e mobile
+
+# Tutorial para criação do Projeto BackEnd NodeJS
+---
 ``` 
 npm init -y 
 ```
