@@ -1,6 +1,6 @@
 
 
-![Alt ou título da imagem](https://github.com/danielcs7/semanaomnistack11/blob/master/img/logo.svg)
+<center> ![Alt ou título da imagem](https://github.com/danielcs7/semanaomnistack11/blob/master/img/logo.svg)</center>
 
 
 # semanaomnistack11
