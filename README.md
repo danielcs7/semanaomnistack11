@@ -8,25 +8,16 @@
 </div>
 
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/danielcs7/semanaomnistack11/blob/master/img/logo.svg">
-</p>
 
+## Requisitos
 
-# semanaomnistack11
-<p align="center">
-  <img width="460" height="300" src="https://github.com/danielcs7/semanaomnistack11/blob/master/img/webomnistack11.png">
-  
-</p>
-
-<p align="center">
-<img width="150" height="300" src="https://github.com/danielcs7/semanaomnistack11/blob/master/img/mobilestack11.png">
-</p>
-
----
-- #reactjs 
-- #reactnative 
-- #nodejs
+- [Nodejs](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
+- [React](https://pt-br.reactjs.org/)
+- [ReactNative](https://reactnative.dev/) 
+- [express](https://github.com/expressjs/express)
+- [nodemon](https://github.com/remy/nodemon/)
+- [Knex](http://knexjs.org/)
 
 # Metodos HTTP
 ---
