@@ -1,6 +1,7 @@
 
-
-<center> ![Alt ou título da imagem](https://github.com/danielcs7/semanaomnistack11/blob/master/img/logo.svg)</center>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/danielcs7/semanaomnistack11/blob/master/img/logo.svg">
+</p>
 
 
 # semanaomnistack11
