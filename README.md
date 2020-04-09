@@ -3,7 +3,7 @@
     <img src="img/logo.svg" alt="logo"/>
     <p><strong>Projeto desenvolvido durante a semana omnistack 11</strong></p>
     <p>Site: <a href="https://bethehero-front.netlify.com/">Be The Hero</a></p>
-    <img src="img/webomnistack11.png alt="pagina" width="500px" height="300px"/>
+    <img src="img/webomnistack11.png" alt="pagina" width="500px" height="300px"/>
     <img src="img/mobilestack11.png" alt="aplicativo" height="300px"/>
 </div>
 
