@@ -7,7 +7,11 @@
 # semanaomnistack11
 <p align="center">
   <img width="460" height="300" src="https://github.com/danielcs7/semanaomnistack11/blob/master/img/webomnistack11.png">
-  <img width="460" height="300" src="https://github.com/danielcs7/semanaomnistack11/blob/master/img/mobilestack11.png">
+  
+</p>
+
+<p align="center">
+<img width="200" height="300" src="https://github.com/danielcs7/semanaomnistack11/blob/master/img/mobilestack11.png">
 </p>
 
 ---
